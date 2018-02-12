@@ -1,0 +1,4 @@
+/.pants.d/
+.cache/*
+.pids/*
+.pants*
